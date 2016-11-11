@@ -1,4 +1,4 @@
-FROM produktion/jupyter-pyspark
+FROM produktion/jupyter-pyspark@sha256:0157844a44d84fa9545d645ac4114145c7b19cc97cb4fe80b36495a740159da6
 
 USER root
 
