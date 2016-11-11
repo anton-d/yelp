@@ -27,7 +27,7 @@ Hierbei wird davon ausgegangen, dass der Datensatz im aktuellen Verzeichnis unte
 
 ## Notebooks ausführen
 
-1. Sich über einen Browser mit dem Jupyter-Server verbinden. Addresse http://<ip-of-docker-container>
+1. Sich über einen Browser mit dem Jupyter-Server auf dem Container verbinden (http://ip_addresse_des_containers)
 2. Gewähltes Passwort eingeben
 3. Notebook öffnen
 4. Im Menü Cell > Run All auswählen
